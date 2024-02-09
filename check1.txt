@@ -1,7 +1,8 @@
 1)yellow 
 2)purple
-3)
+3)violet
 4)blue
 5)red
-6)yellowishbue
-7)steel grey
+6)pink
+7)yellowishbue
+8)steel grey

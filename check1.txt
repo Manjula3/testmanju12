@@ -4,5 +4,6 @@
 4)blue
 5)pink
 6)crazy micky
-7)yellowishbue
+7)tag
+
 8)steel grey
